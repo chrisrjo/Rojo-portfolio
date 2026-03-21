@@ -131,7 +131,7 @@ section.visible {
 }
 
 .skills-icons img {
-    height: 120px;   
+    height: 150px;   
     width: auto;    
     transition: transform 0.3s ease;
 }
@@ -139,7 +139,6 @@ section.visible {
 .skills-icons img:hover {
     transform: scale(1.1);
 }
-
 .flex-container {
     display: flex;
     gap: 50px;
